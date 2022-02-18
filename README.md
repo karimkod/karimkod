@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **various (open and closed source) projects**
 
-- 👯 I’m looking to collaborate on **anything that can make the word better**
+- 👯 I’m looking to collaborate on **anything that can make the world better**
 
 - 📝 I regularly write articles on [https://medium.com/@abdelkrim.bournane](https://medium.com/@abdelkrim.bournane)
 
