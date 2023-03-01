@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/karimkos" target="blank"><img src="https://img.shields.io/twitter/follow/karimkos?logo=twitter&style=for-the-badge" alt="karimkos" /></a> </p>
 
-- 🔭 I’m currently working on **various (open and closed source) projects**
+- 🔭 I’m currently working on [Jebud](https://github.com/jebud-com) and other closed source.
 
 - 👯 I’m looking to collaborate on **anything that can make the world better**
 
