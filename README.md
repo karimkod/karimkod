@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **anything that can make the world better**
 
-- 📝 I regularly write articles on [https://medium.com/@abdelkrim.bournane](https://medium.com/@abdelkrim.bournane)
+- 📝 I regularly write articles on my [blog](https://abdelkrim.blog) 
 
 - 💬 Ask me about **csharp, dotnet, flutter, dart, azure**
 
